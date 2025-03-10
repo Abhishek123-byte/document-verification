@@ -1,0 +1,20 @@
+{
+  "name": "document-verification",
+  "version": "1.0.0",
+  "description": "Project: Document Verification Application\r Objective: Develop a web application for verifying the authenticity of documents using optical character recognition (OCR) and backend algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek123-byte/document-verification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek123-byte/document-verification/issues"
+  },
+  "homepage": "https://github.com/Abhishek123-byte/document-verification#readme"
+}
